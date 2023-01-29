@@ -1,0 +1,81 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Roboto', sans-serif;
+    max-width: 1240px;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    line-height: 30px;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+#ab{
+    font-size: 18px;
+}
+.click{
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+    background-color: rgba(245, 140, 3, 0.543);
+    border-radius: 30px;
+}
+.first{
+    display: flex;
+    margin-top: 50px;
+}
+.second{
+    width: 50%;
+
+    margin-top: 100px;
+}
+.third{
+    width: 50%;
+}
+.third img{
+    width: 100%;
+}
+span{
+    color: orange;
+}
+.six{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+.seven{
+    width: 50%;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.six img{
+    width: 50%;
+}
+.female{
+    background-image: url(images/shapes/female-bg.png);
+    margin-bottom: 20px;
+}
+#lorem{
+    line-height: 28px;
+}
+.food{
+    display: flex;
+}
+.fish{
+    width: 45%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 4%;
+    border-radius: 30px;
+}
+
+.fish img{
+    width: 90%;
+    height: 300px;
+    padding: 25px;
+}
+.same{
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
