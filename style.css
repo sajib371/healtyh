@@ -27,11 +27,12 @@ h1{
 }
 .second{
     width: 50%;
-
     margin-top: 100px;
+    margin-left: 90px;
 }
 .third{
     width: 50%;
+    margin-left: -150px;
 }
 .third img{
     width: 100%;
@@ -48,9 +49,10 @@ span{
     width: 50%;
     margin-top: 100px;
     margin-right: 100px;
+    margin-bottom: 60px;
 }
 .six img{
-    width: 50%;
+    width: 60%;
 }
 .female{
     background-image: url(images/shapes/female-bg.png);
@@ -61,10 +63,11 @@ span{
 }
 .food{
     display: flex;
+    margin-top: 50px;
 }
 .fish{
     width: 45%;
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: 2px 2px 4px 4px rgb(244, 238, 238);
     margin-left: 4%;
     border-radius: 30px;
 }
@@ -77,5 +80,46 @@ span{
 .same{
     padding-left: 25px;
     padding-right: 25px;
-
+}
+.final{
+    display: flex;
+    margin-left: 4%;
+    margin-right: 2.5%;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    box-shadow: 2px 2px 4px 4px rgb(245, 238, 238) ;
+    border-radius: 15px;
+}
+.end{
+    width: 25%;
+    padding-left: 140px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#last-one{
+    background-color: black;
+}
+#last-one p{
+    color: white;
+    text-align: center;
+}
+.eat{
+    color: orange;
+}
+.fresh{
+    color: gainsboro;
+}
+#okay{
+    word-spacing: 8px;
+    text-align: center;
+}
+#fresh{
+    padding-top: 30px;
+    padding-bottom: 90px;
+}
+.rec{
+    text-align: center;
+}
+#food{
+    margin-top: 70px;
 }
